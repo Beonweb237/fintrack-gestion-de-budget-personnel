@@ -11,14 +11,6 @@ export default function Footer() {
         <p className="font-caption text-neutral-300">
           &copy; {new Date().getFullYear()} FinTrack. Tous droits reserves.
         </p>
-        <a
-          href="https://www.beonweb.cm/"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="font-caption text-neutral-400 hover:text-accent-gold transition-colors"
-        >
-          Conçu par Beonweb
-        </a>
         <p className="font-caption text-neutral-400">
           Version 1.0.0
         </p>
